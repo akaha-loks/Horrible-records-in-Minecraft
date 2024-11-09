@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: e53569139b3784240a1191d6043e545c
+guid: 4296be7fe5ea11f47932158bb9b1ce46
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Beyne
+  - Minecraft Rus
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

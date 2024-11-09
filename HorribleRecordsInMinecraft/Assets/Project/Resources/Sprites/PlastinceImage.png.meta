@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: f0219c8f384740a4b8ff8032fc46d187
+guid: 09964ac5996465a4a881b8a8c1667383
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -123,13 +123,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ButtonsBackgorunds_0
+      name: PlastinceImage_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 19
-        width: 219
-        height: 219
+        x: 0
+        y: 0
+        width: 150
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -137,20 +137,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3a2c7f8114d2be14488f025a4fc61fd5
-      internalID: 1091017782
+      spriteID: b22af802db23cde499335498aa03b733
+      internalID: 1401445629
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: ButtonsBackgorunds_1
+      name: PlastinceImage_1
       rect:
         serializedVersion: 2
-        x: 255
-        y: 101
-        width: 547
-        height: 137
+        x: 163
+        y: 0
+        width: 150
+        height: 120
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -158,8 +158,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1aa0aacc6ae967645ae194cf2836ea2b
-      internalID: 1986338848
+      spriteID: b03e82fd153c3a948aebeaa0f9582956
+      internalID: 488072457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlastinceImage_2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 0
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be3c731534f5a24b82c76ad556bc7d8
+      internalID: 252833674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlastinceImage_3
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 0
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef4d6267e243194c81600bc1c51c3e2
+      internalID: -1996403953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlastinceImage_4
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 0
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbf7c7c3916c034181b1a6dfbdba257
+      internalID: 374714148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlastinceImage_5
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 0
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8953db405ae734c832b8eb37dcc65f
+      internalID: 1729573939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlastinceImage_6
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 0
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81abb15860d14b1409a73113948b0221
+      internalID: -742069641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PlastinceImage_7
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 0
+        width: 150
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fb35596fc8cc343811f2a1f0a0f09c
+      internalID: -297535040
       vertices: []
       indices: 
       edges: []
@@ -175,8 +301,14 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      ButtonsBackgorunds_0: 1091017782
-      ButtonsBackgorunds_1: 1986338848
+      PlastinceImage_0: 1401445629
+      PlastinceImage_1: 488072457
+      PlastinceImage_2: 252833674
+      PlastinceImage_3: -1996403953
+      PlastinceImage_4: 374714148
+      PlastinceImage_5: 1729573939
+      PlastinceImage_6: -742069641
+      PlastinceImage_7: -297535040
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
